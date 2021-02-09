@@ -18,6 +18,7 @@ body {
 
 content {
   position: absolute;
+  margin: 10px;
   width: 100%;
   max-width: calc(520px - 20px);
   height: 100%;
